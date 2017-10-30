@@ -6,3 +6,5 @@ Za vezbanje pull requesta
 Hajde ljudi
 
 vucko
+
+Dragana
